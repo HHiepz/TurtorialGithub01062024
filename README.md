@@ -1,6 +1,8 @@
 # Terms
 
 Repository (Repo)
+Branch
+Conflict
 
 # Commands
 
@@ -17,4 +19,6 @@ Repository (Repo)
 - git checkout {branch id}
 - git checkout {branch name}
 - git checkout -b {branch name}
+
 - git merge {branch name}
+- git branch -d {branch name}
