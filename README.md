@@ -17,3 +17,4 @@ Repository (Repo)
 - git checkout {branch id}
 - git checkout {branch name}
 - git checkout -b {branch name}
+- git merge {branch name}
